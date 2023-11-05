@@ -1,4 +1,5 @@
 #include<iostream>
+/* can you telll me how to run this code on vs code ide*/
 using namespace std;
 int binarySearch(int arr[], int p, int r, int num) {
    if (p <= r) {
